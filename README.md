@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on mobile app development 
-- 📫 You can reah me via mail at iwegbue.emmanuel@gmail.com
+- 📫 You can reach me via mail at iwegbue.emmanuel@gmail.com
 - ⚡ Fun fact: when I'm not not coding, I either watch movies, play football games or play the piano
 
 <!---
